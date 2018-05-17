@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Lady Red
+Build-Jdk: 9.0.4
+Implementation-Title: Spring Employees API
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.adrian.springboot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/employees-ap
+ i/
+Created-By: Maven Integration for Eclipse
+
